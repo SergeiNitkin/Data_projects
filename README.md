@@ -10,3 +10,6 @@
 ### 3. [Проект 3](https://github.com/SergeiNitkin/Data_projects/blob/main/Projects/Project_3.ipynb)
 #### Описание проекта:
 Интернет-магазин. Анализ результатов А/В-теста (кумулятивный средний чек, кумулятивная выручка, кумулятивная конверсия, количество заказов на пользователя).
+### 4. [Проект 4](https://github.com/SergeiNitkin/Data_projects/blob/main/Projects/Project_4.ipynb)
+#### Описание проекта:
+Приложение Procrastinate Pro+. Анализ бизнес-показателей (LTV, ROI, CAC, Retention, Conversion)
