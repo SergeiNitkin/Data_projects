@@ -13,3 +13,11 @@
 ### 4. [Проект 4](https://github.com/SergeiNitkin/Data_projects/blob/main/Projects/Project_4.ipynb)
 #### Описание проекта:
 Приложение Procrastinate Pro+. Анализ бизнес-показателей (LTV, ROI, CAC, Retention, Conversion)
+### 5. [Проект 5](https://github.com/SergeiNitkin/Data_projects/blob/main/Projects/Project_5.ipynb)
+#### Описание проекта:
+Анализ рекламных источников игры "Космические братья". 
+Проранжировать источники привлечения по различным критериям, таким как:
+- стоимость привлечения
+- вовлеченность игроков
+- особенности прохождения игры
+- скорость прохождения
