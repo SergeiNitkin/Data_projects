@@ -12,7 +12,7 @@
 Интернет-магазин. Анализ результатов А/В-теста (кумулятивный средний чек, кумулятивная выручка, кумулятивная конверсия, количество заказов на пользователя).
 ### 4. [Проект 4](https://github.com/SergeiNitkin/Data_projects/blob/main/Projects/Project_4.ipynb)
 #### Описание проекта:
-Приложение Procrastinate Pro+. Анализ бизнес-показателей (LTV, ROI, CAC, Retention, Conversion)
+Мобильное приложение. Анализ бизнес-показателей (LTV, ROI, CAC, Retention, Conversion)
 ### 5. [Проект 5](https://github.com/SergeiNitkin/Data_projects/blob/main/Projects/Project_5.ipynb)
 #### Описание проекта:
 Анализ рекламных источников игры "Космические братья". 
